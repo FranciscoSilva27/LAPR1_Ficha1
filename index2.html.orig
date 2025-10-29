@@ -6,10 +6,14 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
+    <h1>Dinis Pinheiro - DS</h1>
+=======
     <h1>Dinis Pinheiro - 1251652@isep.ipp.pt</h1>
 	
 	<h1>A minha viagem de sonho é ir à Austrália</h1>
 	
 	<img src="imgs/australia.jfif" alt="">
+>>>>>>> a73e9c5ef2e59a6aad95c63784616c42923be127
 </body>
 </html>
